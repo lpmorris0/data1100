@@ -9,3 +9,5 @@ This is a repository containing anything I am using to learn in my DATA 1100 Pra
 | Week 2 | Command Line Basics | - |
 | Week 3 | Markdown | This README |
 | Week 4 | Piping | - |
+| Week 5 | git | - |
+| Week 6 | git | - |
